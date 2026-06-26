@@ -23,6 +23,9 @@ El proyecto fue desarrollado utilizando una arquitectura basada en una aplicaci√
 * https://github.com/DamianRigoletti33/MindLift-Backend-WebV3
 * 
 
+[Carta_Gantt_MindLift.xlsx](https://github.com/user-attachments/files/29394482/Carta_Gantt_MindLift.xlsx)
+
+
 # Objetivos
 
 * Facilitar el seguimiento del proceso de rehabilitaci√≥n.
