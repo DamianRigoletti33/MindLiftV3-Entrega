@@ -12,6 +12,17 @@ El proyecto fue desarrollado utilizando una arquitectura basada en una aplicaci�
 
 ---
 
+### REPOSITORIOS DEL PROYECTO
+* App y Backend:
+* https://github.com/DamianRigoletti33/MindLift-AppV3
+* https://github.com/DamianRigoletti33/Mindlift-BackendV3
+* 
+
+* Web Frontend y Backend:
+* https://github.com/DamianRigoletti33/Mindlift-Frontend-WebV3
+* https://github.com/DamianRigoletti33/MindLift-Backend-WebV3
+* 
+
 # Objetivos
 
 * Facilitar el seguimiento del proceso de rehabilitación.
@@ -241,21 +252,21 @@ Se comprobó el correcto almacenamiento de la información en las tablas:
 
 ---
 
-Documentación del Proyecto
+### Documentación del Proyecto
+#Documentacion APP
+
+[EVIDENCIAS PRINCIPAL FUNCIONAMIENTO DE APP.docx](https://github.com/user-attachments/files/29389354/EVIDENCIAS.PRINCIPAL.FUNCIONAMIENTO.DE.APP.docx)
+[PRUEBAS UNITARIAS Y MYSQL- MINDLIFT.docx](https://github.com/user-attachments/files/29389414/PRUEBAS.UNITARIAS.Y.MYSQL-.MINDLIFT.docx)
+
+---
+
+#Documentacion WEB
+[pruebas_unitarias.docx](https://github.com/user-attachments/files/29389472/pruebas_unitarias.docx)
+[documentacion_pagina_web.docx](https://github.com/user-attachments/files/29389384/documentacion_pagina_web.docx)
+[PRUEBAS POSTMAN MINDLIFT.docx](https://github.com/user-attachments/files/29389371/PRUEBAS.POSTMAN.MINDLIFT.docx)
 
 
-xxx
-xx
-x
-x
-x
-
-
-
-
-
-
-# Escalabilidad
+### Escalabilidad
 
 La aplicación fue diseñada considerando una futura implementación sobre infraestructura cloud.
 
